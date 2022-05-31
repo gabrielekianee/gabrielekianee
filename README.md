@@ -7,7 +7,7 @@
 I am graduated in IT management, focused on front end and with great interest in the User Expercience area. I'm always seeking to learn new things that will make a difference in the user's interaction.  👩‍💻</p>
 
 <p><samp>
- :rocket:  &nbsp; I'm currently working at <b>Fatecoins</b> as a UX/UI designer and a Software Engineer - using React Native;
+ :rocket:  &nbsp; I'm currently working at <b>Ardanis</b> as FrontEnd Developer - React;
  <br/> :purple_heart: &nbsp; I'm learning Typescript;
  <br/> :blush: &nbsp; I can help you with HTML, CSS Grid Layout e Flexbox, SASS, JS and ReactJS/Native;
  <br/> 💬  &nbsp; About me: I love technologies, games and watch series on Netflix.
